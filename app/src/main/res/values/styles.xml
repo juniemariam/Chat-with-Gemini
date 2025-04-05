@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.GeminiChatApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">#2B478B</item>
+        <item name="colorPrimaryVariant">#1A366D</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">#2B478B</item>
+        <item name="colorSecondaryVariant">#1A366D</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Default text color -->
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+</resources>
